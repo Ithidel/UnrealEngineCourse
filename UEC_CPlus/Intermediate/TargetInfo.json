@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UEC_CPlus",
+			"Path": "..\\Source\\UEC_CPlus.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UEC_CPlusEditor",
+			"Path": "..\\Source\\UEC_CPlusEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UEC_CPlus.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UEC_CPlus.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UEC_CPlusEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UEC_CPlus">
+      <UniqueIdentifier>{7C334E16-7C32-3CB7-8955-FB2FF30B0D15}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UEC_CPlus\UEC_CPlus.Build.cs">
+      <Filter>Source\UEC_CPlus</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UEC_CPlus\UEC_CPlus.cpp">
+      <Filter>Source\UEC_CPlus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEC_CPlus\UEC_CPlus.h">
+      <Filter>Source\UEC_CPlus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEC_CPlus\UEC_CPlusCharacter.cpp">
+      <Filter>Source\UEC_CPlus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEC_CPlus\UEC_CPlusCharacter.h">
+      <Filter>Source\UEC_CPlus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEC_CPlus\UEC_CPlusGameMode.cpp">
+      <Filter>Source\UEC_CPlus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEC_CPlus\UEC_CPlusGameMode.h">
+      <Filter>Source\UEC_CPlus</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

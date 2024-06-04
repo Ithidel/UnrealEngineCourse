@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\luism\\Documents\\GitHub\\UnrealEngineCourse\\UEC_CPlus\\Source\\UEC_CPlus\\UEC_CPlus.Build.cs",
+		"C:\\Users\\luism\\Documents\\GitHub\\UnrealEngineCourse\\UEC_CPlus\\Source\\UEC_CPlus.Target.cs",
+		"C:\\Users\\luism\\Documents\\GitHub\\UnrealEngineCourse\\UEC_CPlus\\Source\\UEC_CPlusEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

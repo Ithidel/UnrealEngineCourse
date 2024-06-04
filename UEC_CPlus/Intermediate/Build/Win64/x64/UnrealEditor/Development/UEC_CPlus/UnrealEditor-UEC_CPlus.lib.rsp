@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UEC_CPlus.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\luism\Documents\GitHub\UnrealEngineCourse\UEC_CPlus\Intermediate\Build\Win64\x64\UEC_CPlusEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\luism\Documents\GitHub\UnrealEngineCourse\UEC_CPlus\Intermediate\Build\Win64\x64\UnrealEditor\Development\UEC_CPlus\UEC_CPlus.init.gen.cpp.obj"
+"C:\Users\luism\Documents\GitHub\UnrealEngineCourse\UEC_CPlus\Intermediate\Build\Win64\x64\UnrealEditor\Development\UEC_CPlus\UEC_CPlusCharacter.gen.cpp.obj"
+"C:\Users\luism\Documents\GitHub\UnrealEngineCourse\UEC_CPlus\Intermediate\Build\Win64\x64\UnrealEditor\Development\UEC_CPlus\UEC_CPlusGameMode.gen.cpp.obj"
+"C:\Users\luism\Documents\GitHub\UnrealEngineCourse\UEC_CPlus\Intermediate\Build\Win64\x64\UnrealEditor\Development\UEC_CPlus\UEC_CPlus.cpp.obj"
+"C:\Users\luism\Documents\GitHub\UnrealEngineCourse\UEC_CPlus\Intermediate\Build\Win64\x64\UnrealEditor\Development\UEC_CPlus\UEC_CPlusCharacter.cpp.obj"
+"C:\Users\luism\Documents\GitHub\UnrealEngineCourse\UEC_CPlus\Intermediate\Build\Win64\x64\UnrealEditor\Development\UEC_CPlus\UEC_CPlusGameMode.cpp.obj"
+"C:\Users\luism\Documents\GitHub\UnrealEngineCourse\UEC_CPlus\Intermediate\Build\Win64\x64\UnrealEditor\Development\UEC_CPlus\Default.rc2.res"
+/OUT:"C:\Users\luism\Documents\GitHub\UnrealEngineCourse\UEC_CPlus\Intermediate\Build\Win64\x64\UnrealEditor\Development\UEC_CPlus\UnrealEditor-UEC_CPlus.lib"

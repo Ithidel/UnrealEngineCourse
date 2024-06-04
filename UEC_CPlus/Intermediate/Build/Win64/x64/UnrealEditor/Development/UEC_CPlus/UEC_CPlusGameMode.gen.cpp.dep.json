@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\luism\\documents\\github\\unrealenginecourse\\uec_cplus\\intermediate\\build\\win64\\unrealeditor\\inc\\uec_cplus\\uht\\uec_cplusgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\luism\\documents\\github\\unrealenginecourse\\uec_cplus\\intermediate\\build\\win64\\x64\\uec_cpluseditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\luism\\documents\\github\\unrealenginecourse\\uec_cplus\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uec_cplus\\definitions.uec_cplus.h",
+            "c:\\users\\luism\\documents\\github\\unrealenginecourse\\uec_cplus\\source\\uec_cplus\\uec_cplusgamemode.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\luism\\documents\\github\\unrealenginecourse\\uec_cplus\\intermediate\\build\\win64\\unrealeditor\\inc\\uec_cplus\\uht\\uec_cplusgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

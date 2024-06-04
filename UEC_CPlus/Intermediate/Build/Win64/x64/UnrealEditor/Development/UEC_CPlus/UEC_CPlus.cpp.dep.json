@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\luism\\documents\\github\\unrealenginecourse\\uec_cplus\\source\\uec_cplus\\uec_cplus.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\luism\\documents\\github\\unrealenginecourse\\uec_cplus\\intermediate\\build\\win64\\x64\\uec_cpluseditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\luism\\documents\\github\\unrealenginecourse\\uec_cplus\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uec_cplus\\definitions.uec_cplus.h",
+            "c:\\users\\luism\\documents\\github\\unrealenginecourse\\uec_cplus\\source\\uec_cplus\\uec_cplus.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
